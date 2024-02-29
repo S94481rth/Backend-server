@@ -1,0 +1,1 @@
+# `docker run -d -p 3000:3000 -e SERVER_NAME=server1 --name backend-server1 backend-server:1.0.0`
